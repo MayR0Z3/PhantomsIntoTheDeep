@@ -13,7 +13,7 @@ import org.firstinspires.ftc.teamcode.library.MecanumDrive;
 public class TeleOpParent extends LinearOpMode {
 
 //    DriverOrientedControl drive;
-    public double movementPwr = 1;
+    public double movementPwr = 1; //hui
     public double turningMultiplier = 1;
     DriveStyle.DriveType type = DriveStyle.DriveType.MECANUMTANK;
 
@@ -44,3 +44,4 @@ public class TeleOpParent extends LinearOpMode {
         }
     }
 }
+// hello
